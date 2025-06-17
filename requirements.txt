@@ -1,6 +1,6 @@
 Django==4.0.2
 wagtail==5.0.2
 flake8==4.0.1
-wagtail-generic-chooser==0.5.1
+wagtail-generic-chooser==0.7
 django-storages==1.11.1
 boto3==1.16.47
